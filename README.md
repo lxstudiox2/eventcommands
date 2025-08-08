@@ -15,6 +15,7 @@ With the /evento command, staff can instantly create an event. A modern on-scree
 🔔 Customizable notifications using ox_lib
 
 📝 Fully open source and editable
+<img width="349" height="199" alt="Sin título" src="https://github.com/user-attachments/assets/567868b9-2919-4431-bfb0-f62c1d67ad52" />
 
 ✅ Compatible with ESX Legacy and other variants
 
