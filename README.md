@@ -1,4 +1,4 @@
-Take your server events to the next level with this fully editable and optimized script for ESX servers!
+Take your server events to the next level with this fully editable and optimized script for ESX servers! [FIVEM]
 
 
 ✨ What does it do?
