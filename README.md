@@ -17,3 +17,6 @@ With the /evento command, staff can instantly create an event. A modern on-scree
 📝 Fully open source and editable
 
 ✅ Compatible with ESX Legacy and other variants
+
+
+suporrt discord : https://discord.gg/BE7efBhEbR
